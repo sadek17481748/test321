@@ -18,3 +18,8 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: 1rem 1.5rem;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+}
+.logo { font-weight: 700; margin: 0; }
+.nav a { color: #9fb4ff; margin-left: 1rem; text-decoration: none; }
