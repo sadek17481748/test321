@@ -10,3 +10,6 @@
     cta.addEventListener('click', () => {
       cta.textContent = 'Baking…';
       setTimeout(() => { cta.textContent = 'Pastries deployed ✓'; }, 900);
+    });
+  }
+})();
