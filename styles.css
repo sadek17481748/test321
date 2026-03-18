@@ -8,3 +8,8 @@ body {
   min-height: 100vh;
 }
 .stars {
+  position: fixed;
+  inset: 0;
+  background: radial-gradient(circle at 20% 20%, #2a1f4a 0, transparent 40%),
+    radial-gradient(circle at 80% 30%, #1f3a4a 0, transparent 35%), #0b1020;
+  z-index: -1;
