@@ -48,3 +48,8 @@ section { margin-bottom: 2.5rem; }
 }
 .mono { font-family: ui-monospace, monospace; color: #7bed9f; }
 .site-footer {
+  text-align: center;
+  padding: 1.5rem;
+  color: #6c7a99;
+  font-size: 0.9rem;
+}
