@@ -38,3 +38,8 @@ main { max-width: 720px; margin: 0 auto; padding: 2rem 1.5rem 4rem; }
 }
 .cta:hover { filter: brightness(1.08); }
 section { margin-bottom: 2.5rem; }
+.cards { list-style: none; padding: 0; margin: 0; }
+.cards li {
+  padding: 0.9rem 1rem;
+  margin-bottom: 0.6rem;
+  background: rgba(255,255,255,0.05);
